@@ -1,4 +1,4 @@
-# Simple yet Fast port scanner with Python3 
+# Simple yet Fast port scanner in Python3 
 - Currently it uses IP only
 
 # To Do:
